@@ -1,1 +1,1 @@
-# TextGAN
+# LeXiCode3J
